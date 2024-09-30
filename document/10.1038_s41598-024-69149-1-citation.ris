@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Durmus, Yusuf
+AU  - Atasoy, Ayse Dilek
+AU  - Atasoy, Ahmet Ferit
+PY  - 2024
+DA  - 2024/08/07
+TI  - Mathematical optimization of multilinear and artificial neural network regressions for mineral composition of different tea types infusions
+JO  - Scientific Reports
+SP  - 18285
+VL  - 14
+IS  - 1
+AB  - The objective of this study was to investigate the change in mineral composition depending on tea variety, tea concentration, and steeping time. Four different tea varieties, black Ceylon (BC), black Turkish (BT), green Ceylon (GC), and green Turkish (GT), were used to produce teas at concentrations of 1, 2, and 3%, respectively. These teas were produced using 7 different steeping times: 2, 5, 10, 20, 30, 45, and 60 min. It was also aimed to optimize the regression equations utilizing these factors to identify parameters conducive to maximizing Zn, K, Cu, Mg, Ca, Na, and Fe levels; minimizing Al content, and maintaining Mn level at 5.3 mg/L. The optimal conditions for achieving a Mn content of 5.3 mg/L in black Turkish tea entailed steeping at a concentration of 1.94% for 11.4 min. Variations in K and Mg levels across teas were inconsistent with those observed for other minerals, whereas variations in Al, Cu, Fe, Mn, Na, and Zn levels exhibited a close relationship. Overall, mineral levels in tea can be predicted through regression analysis, and by mathematically optimizing the resultant equations, the requisite conditions for tea production can be determined to achieve maximum, minimum, or target mineral values.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-69149-1
+DO  - 10.1038/s41598-024-69149-1
+ID  - Durmus2024
+ER  - 
